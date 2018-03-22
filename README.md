@@ -1,7 +1,7 @@
 # Systems
 Systems Troubleshooting
 
-Server Triage Checklist	1
+Server Triage Checklist	1
 Pre-verification	1
 Fusion IO	2
 Logical Drive Fix	2
